@@ -24,9 +24,10 @@
 - [Project 4: Bus Tracking system](https://github.com/ManabUpadhyay)
   - Description:This is application build for tracking buses in real time for our university. It is on going 
   - Tech Stack: Flutter, nodejs
-  - - [Project 4: Chat-app](https://github.com/ManabUpadhyay)
-  - Description:This is application build for real time chating 
-  - Tech Stack: MERN
+
+  - [Project 4:Chat -app](https://github.com/ManabUpadhyay)
+  - Description:This is application build for reacl time chating between users
+  - Tech Stack: Flutter, nodejs
 
 
 ### ✍️ Random Dev Quote
