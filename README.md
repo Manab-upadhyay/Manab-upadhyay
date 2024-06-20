@@ -28,7 +28,8 @@
 - [Project 5:Chat -app](https://github.com/ManabUpadhyay)
   - Description:This is application build for reacl time chating between users
   - Tech Stack: Flutter, nodejs
-📬 Get in Touch
+    
+#📬 Get in Touch
 
 - GitHub: [ManabUpadhyay](https://github.com/ManabUpadhyay)
 - linkedIn: (https://www.linkedin.com/in/manab-upadhyay-795075262)
