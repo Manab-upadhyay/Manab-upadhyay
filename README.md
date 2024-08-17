@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in full-stack web development, AI, and system design.<br>🌱 I’m currently learning advanced React and Next.js, MongoDB, and AI technologies.<br>💞️ I’m looking to collaborate on web development projects, especially those involving e-commerce, blogs, and educational platforms.<br>📫 How to reach me: Email, LinkedIn<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love solving Rubik's cubes and can solve one in under a minute!
+👀 I’m interested in full-stack web development, AI, and system design.<br>🌱 I’m experienced  in  React and Next.js, MongoDB, and AI technologies.<br>💞️ I’m looking to collaborate on web development projects, especially those involving e-commerce, blogs, API devlopment , educational platforms,etc<br>📫 How to reach me: Email, LinkedIn<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love solving Rubik's cubes and can solve one in under a minute!
 
 
 ## 🌐 Socials:
